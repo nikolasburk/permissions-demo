@@ -1,0 +1,5 @@
+service: permissions-demo
+
+datamodel: database/datamodel.graphql
+
+secret: mysecret123
